@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Transaction shoult match the snapshot of transaction 1`] = `
+<div
+  className="transaction__row"
+>
+  <div
+    className="transaction__data_status"
+  >
+    <span
+      className="transaction__date"
+    >
+      10/01/2020
+    </span>
+    <span
+      className="status successful"
+    >
+      Successful
+    </span>
+  </div>
+  <div
+    className="transaction__amount_type"
+  >
+    <span
+      className="transaction__amount null"
+    >
+      162.45
+       €
+    </span>
+    <span
+      className="transaction__type"
+    >
+      <i
+        className="far fa-credit-card"
+      />
+    </span>
+  </div>
+</div>
+`;

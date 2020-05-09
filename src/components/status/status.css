@@ -1,0 +1,14 @@
+.status {
+  padding: 2px 5px 2px 5px;
+  border-radius: 2px;
+  margin-left: 10px;
+}
+.successful {
+  background-color: darkseagreen;
+}
+.refunded {
+  background-color: lightblue;
+}
+.failed {
+  background-color: darksalmon;
+}

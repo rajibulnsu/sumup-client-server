@@ -1,0 +1,3 @@
+export const NUMBER_OF_PAST_MONTHS = 6;
+export const NUMBER_OF_TRANSACTIONS = 100;
+export const MAX_TRANSACTION_AMOUNT = 200;
