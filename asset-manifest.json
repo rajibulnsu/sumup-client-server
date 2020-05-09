@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sumup-client-server/static/css/main.5d6cc05b.chunk.css",
-    "main.js": "/sumup-client-server/static/js/main.afe6dffa.chunk.js",
-    "main.js.map": "/sumup-client-server/static/js/main.afe6dffa.chunk.js.map",
+    "main.js": "/sumup-client-server/static/js/main.58b16245.chunk.js",
+    "main.js.map": "/sumup-client-server/static/js/main.58b16245.chunk.js.map",
     "runtime~main.js": "/sumup-client-server/static/js/runtime~main.579b4f6f.js",
     "runtime~main.js.map": "/sumup-client-server/static/js/runtime~main.579b4f6f.js.map",
     "static/js/2.86233c3e.chunk.js": "/sumup-client-server/static/js/2.86233c3e.chunk.js",
     "static/js/2.86233c3e.chunk.js.map": "/sumup-client-server/static/js/2.86233c3e.chunk.js.map",
     "index.html": "/sumup-client-server/index.html",
-    "precache-manifest.bf38f9f03b988d535e1985305ff72da3.js": "/sumup-client-server/precache-manifest.bf38f9f03b988d535e1985305ff72da3.js",
+    "precache-manifest.0d22c8b3d2bdb05eb5b7c25b456a15da.js": "/sumup-client-server/precache-manifest.0d22c8b3d2bdb05eb5b7c25b456a15da.js",
     "service-worker.js": "/sumup-client-server/service-worker.js",
     "static/css/main.5d6cc05b.chunk.css.map": "/sumup-client-server/static/css/main.5d6cc05b.chunk.css.map"
   }
