@@ -6,7 +6,7 @@ const fetchData = () => {
     return jsonData.data;
   }
 
-  const fetchedData = fetch(`${BASE_URL}/transaction`)
+  const fetchedData = fetch(`${BASE_URL}/transactions`)
     .then(response => response.json())
     .then(response => response.data)
     .catch( error => console.log(error));
